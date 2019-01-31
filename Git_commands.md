@@ -14,6 +14,8 @@ Cloning into 'LearnSAS'...
 
 **Example – Deleting a file**
 
+\$ git rm Git_Examples_RubyGarage.docx
+
 \$ git rm -f SASPy_test.sas
 
 rm 'Week2/SASPy_test.sas'
@@ -33,7 +35,7 @@ git push origin branch_name
 
 -   git rm -r Week12
 
-    git commit -m "Removed"
+-   git commit -m "Removed"
 
     git push
 
